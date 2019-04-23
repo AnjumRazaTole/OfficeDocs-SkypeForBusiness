@@ -181,7 +181,7 @@ When a P2P call is escalated to a PSTN conference, the Skype for Business Online
 
     For Identity, use the Display Name of the Office 365 user account you created for this Mediation Server.
     
-    For  *MediationServerFQDN*  , use the internal FQDN defined for your Mediation Server.
+    For  *MediationServerFQDN*  , use the internal FQDN defined for your Mediation Server. Eg: Sip:Med01.CCEDomain.local@contoso.com
     
     For  *EdgeServerExternalFQDN*  , use the external FQDN defined for Edge Server Access Proxy. If there are multiple Cloud Connector PSTN sites, choose the Edge Server Access Proxy FQDN assigned to the site where the Mediation Server is located.
     
